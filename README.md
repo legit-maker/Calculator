@@ -9,4 +9,4 @@ Uaer-Friendly Interface: Simple and Intuitive layout for ease of use.
 Technologies Used:
 Frontend: HTML, CSS, Javascript
 
-Open the '[cal.html]' file in your browser or just double-click the file.
+Open the '[cal.html]cal.html' file in your browser or just double-click the file.
